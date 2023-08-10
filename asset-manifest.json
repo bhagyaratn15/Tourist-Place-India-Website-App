@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/touristapp/static/css/main.a2b65dc2.css",
-    "main.js": "/touristapp/static/js/main.175bf9e1.js",
-    "index.html": "/touristapp/index.html",
-    "main.a2b65dc2.css.map": "/touristapp/static/css/main.a2b65dc2.css.map",
-    "main.175bf9e1.js.map": "/touristapp/static/js/main.175bf9e1.js.map"
+    "main.css": "/Tourist-Place-India-Website-App/static/css/main.a2b65dc2.css",
+    "main.js": "/Tourist-Place-India-Website-App/static/js/main.175bf9e1.js",
+    "index.html": "/Tourist-Place-India-Website-App/index.html",
+    "main.a2b65dc2.css.map": "/Tourist-Place-India-Website-App/static/css/main.a2b65dc2.css.map",
+    "main.175bf9e1.js.map": "/Tourist-Place-India-Website-App/static/js/main.175bf9e1.js.map"
   },
   "entrypoints": [
     "static/css/main.a2b65dc2.css",
